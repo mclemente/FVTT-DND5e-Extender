@@ -32,10 +32,10 @@
       "path": "lang/en.json"
     }
   ],
-  "minimumCoreVersion": "0.7.7",
-  "compatibleCoreVersion": "0.7.9",
-  "minimumSystemVersion": "1.1.1",
-  "maximumSystemVersion": "1.2.4",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "minimumSystemVersion": "1.3.6",
+  "maximumSystemVersion": "1.3.6",
   "url": "https://github.com/schultzcole/FVTT-DND5e-Extender",
   "manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-DND5e-Extender/main/module.json",
   "download": "https://github.com/schultzcole/FVTT-DND5e-Extender/archive/2.0.0.zip",
